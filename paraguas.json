@@ -1,0 +1,16 @@
+{
+    "id": "losparaguas",
+    "name": "El Mod XD",
+    "author": [
+        "La Paraguas (Amanda)"
+    ],
+    "description": "Un mod todo estúpido y ya xdd",
+    "prefix": "paru",
+    "main_file": "paraguas.lua",
+    "badge_colour": "0000ff", "badge_text_colour": "000000",
+    "dependencies": [
+        "Lovely (>=0.7)",
+		"Steamodded (>=1.0.0~BETA-0827)"
+    ],
+    "version": "1.0.0"
+}
