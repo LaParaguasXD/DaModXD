@@ -1,6 +1,8 @@
 --[[
 	este archivo se encarga del idioma y todo eso
 	encima me toca hacer los demás noooo .·´¯`(>▂<)´¯`·. 
+	english message: i didn't translate or adapte this to english
+	'cause i'm doing the spanish version and then i make that.
 ]]
 return {
     descriptions = {
@@ -207,6 +209,9 @@ return {
                 es una beta y esto se puede arreglar sin problema.
                 ]]
 				b_paru_ok='OK',
+				paru_special_thanks = "Special Thanks",
+				paru_donators = "Donators:",
+				paru_donatos2 = "test\ntest\ntest",
                 paru_transjoker_ex = "¡DERECHOS TRANS!",
                 paru_thasavior_ex = "¡Has sido salvadx!",
                 paru_royalty_ex = "¡Realeza!",
@@ -220,3 +225,4 @@ return {
         }
     }
 }
+
